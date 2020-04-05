@@ -3,4 +3,17 @@ firefox/.mozilla/firefox/installs.ini
 firefox/.mozilla/firefox/Crash Reports
 firefox/.mozilla/firefox/Pending Pings
 
-firefox/.mozilla/firefox/Profiles/workstation.default/*.sqlite*
+*.sqlite*
+*.db
+
+firefox/.mozilla/firefox/Profiles/workstation.default/storage
+firefox/.mozilla/firefox/Profiles/workstation.default/crashes
+firefox/.mozilla/firefox/Profiles/workstation.default/datareporting
+firefox/.mozilla/firefox/Profiles/workstation.default/sessionstore-backups
+firefox/.mozilla/firefox/Profiles/workstation.default/weave
+firefox/.mozilla/firefox/Profiles/workstation.default/gmp-*
+firefox/.mozilla/firefox/Profiles/workstation.default/SiteSecurityServiceState.txt
+firefox/.mozilla/firefox/Profiles/workstation.default/revocations.txt
+firefox/.mozilla/firefox/Profiles/workstation.default/pkcs11.txt
+firefox/.mozilla/firefox/Profiles/workstation.default/times.json
+firefox/.mozilla/firefox/Profiles/workstation.default/shield-preference-experiments.json
