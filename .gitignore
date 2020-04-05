@@ -3,4 +3,4 @@ firefox/.mozilla/firefox/installs.ini
 firefox/.mozilla/firefox/Crash Reports
 firefox/.mozilla/firefox/Pending Pings
 
-firefox/.mozilla/firefox/workstation.default/*.sqlite*
+firefox/.mozilla/firefox/Profiles/workstation.default/*.sqlite*
